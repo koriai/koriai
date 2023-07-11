@@ -33,9 +33,9 @@ Kori AI : 2020 - present
 
 ### 1. [SR-report](https://app.koriai.com)
 
-<img src="./srreport-3.png" title="srreport" height="500px"></img>
+<img src="./srreport-3.png" title="srreport" height="400px"></img>
 
-<a href='https://play.google.com/store/apps/details?id=com.koriai.report&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px"></a>
+<a href='https://play.google.com/store/apps/details?id=com.koriai.report&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="160px"></a>
 
 1. front-end: Flutter
 2. back-end: Python, Django, Docker
@@ -43,7 +43,7 @@ Kori AI : 2020 - present
 
 ### 2. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
 
-<img src="./ttw-3.png" title="ttw" height="500px"></img>
+<img src="./ttw-3.png" title="ttw" height="400px"></img>
 
 1. front-end: Flutter
 2. back-end: Python
@@ -51,7 +51,7 @@ Kori AI : 2020 - present
 
 ### 3. [Clips viewer](https://clips-u.web.app)
 
-<img src="./clips-1.png" title="clips" height="500px"></img>
+<img src="./clips-1.png" title="clips" height="400px"></img>
 
 This project provides the clips of youtubes.
 
@@ -60,4 +60,4 @@ This project provides the clips of youtubes.
 
 # :memo: [Portfolio Page](https://portfolio-khj.web.app)
 
-<img src="./portfolio.png" title="portfolio" height="500px"></img>
+<img src="./portfolio.png" title="portfolio" height="400px"></img>
