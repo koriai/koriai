@@ -33,9 +33,23 @@ Kori AI : 2020 - present
 
 ### 1. [SR-report](https://app.koriai.com)
 
-<img src="./srreport-3.png" title="srreport" height="400px"></img>
+<img src="./srreport/srreport-3.png" title="srreport" height="400px"></img>
 
 <a href='https://play.google.com/store/apps/details?id=com.koriai.report&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="160px"></a>
+
+<details>
+<summary> <b>More screencasts</b></summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+## Screencasts
+
+<img src="./srreport/srreport-1.png" title="srreport" height="200px"></img>
+<img src="./srreport/srreport-2.png" title="srreport" height="200px"></img>
+<img src="./srreport/srreport-4.png" title="srreport" height="200px"></img>
+<img src="./srreport/srreport-5.png" title="srreport" height="200px"></img>
+<img src="./srreport/srreport-6.png" title="srreport" height="200px"></img>
+<img src="./srreport/srreport-7.png" title="srreport" height="200px"></img>
+</details>
 
 1. front-end: Flutter
 2. back-end: Python, Django, Docker
@@ -43,7 +57,18 @@ Kori AI : 2020 - present
 
 ### 2. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
 
-<img src="./ttw-3.png" title="ttw" height="400px"></img>
+<img src="./ttw/ttw-3.png" title="ttw" height="400px"></img>
+
+<details>
+<summary> <b>More screencasts</b> </summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+## Screencasts
+
+<img src="./ttw/ttw-1.png" title="srreport" height="200px"></img>
+<img src="./ttw/ttw-2.png" title="srreport" height="200px"></img>
+<img src="./ttw/ttw-4.png" title="srreport" height="200px"></img>
+</details>
 
 1. front-end: Flutter
 2. back-end: Python
@@ -51,8 +76,10 @@ Kori AI : 2020 - present
 
 ### 3. [Clips viewer](https://clips-u.web.app)
 
-<img src="./clips-1.png" title="clips" height="400px"></img>
-
+<p float="left">
+<img src="./clips/clips-1.png" title="clips" width="100px" height="400px"></img>
+<img src="./clips/clips-2.png" title="clips" width="350px" height="400px"></img>
+</p>
 This project provides the clips of youtubes.
 
 1. front-end: Flutter
