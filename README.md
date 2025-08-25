@@ -18,10 +18,16 @@ Samsung Display : 2016-2017
 
 Sungkyunkwan-univ master : 2018-2020
 
+BodyFriend : 2024-2025
+
+Apple Developer Academy : 2025 - present
+
 Kori AI : 2020 - present
 
 ## 🔨 Skills
 
+![iOS](https://img.shields.io/badge/iOS-blue?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -31,7 +37,16 @@ Kori AI : 2020 - present
 
 ## :books: Projects
 
-### 1. [SR-report](https://app.koriai.com)
+
+### 1. [iOS AAC]
+
+
+### 2. [Tarot]
+
+
+
+
+### 3. [SR-report](https://app.koriai.com)
 
 <img src="./srreport/srreport-3.png" title="srreport" height="400px"></img>
 
@@ -55,7 +70,7 @@ Kori AI : 2020 - present
 2. back-end: Python, Django, Docker
 3. cloud: Google Cloud, Firebase (auth, firestore, hosting, functions)
 
-### 2. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
+### 4. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
 
 <img src="./ttw/ttw-3.png" title="ttw" height="400px"></img>
 
@@ -74,7 +89,7 @@ Kori AI : 2020 - present
 2. back-end: Python
 3. cloud: Google Cloud, Firebase hosting
 
-### 3. [Clips viewer](https://clips-u.web.app)
+### 5. [Clips viewer](https://clips-u.web.app)
 
 <p float="left">
 <img src="./clips/clips-1.png" title="clips" width="100px" height="400px"></img>
