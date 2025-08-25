@@ -27,7 +27,6 @@ Kori AI : 2020 - present
 ## 🔨 Skills
 
 ![iOS](https://img.shields.io/badge/iOS-blue?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -61,7 +60,7 @@ Kori AI : 2020 - present
 <details>
 <summary> <b>More screencasts</b></summary>
 
-<!-- summary 아래 한칸 공백 두어야함 -->
+
 ## Screencasts
 
 <img src="./srreport/srreport-1.png" title="srreport" height="200px"></img>
@@ -83,7 +82,7 @@ Kori AI : 2020 - present
 <details>
 <summary> <b>More screencasts</b> </summary>
 
-<!-- summary 아래 한칸 공백 두어야함 -->
+
 ## Screencasts
 
 <img src="./ttw/ttw-1.png" title="srreport" height="200px"></img>
