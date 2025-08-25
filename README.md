@@ -40,10 +40,16 @@ Kori AI : 2020 - present
 
 ### 1. [iOS AAC]
 
+1. 앱의 목적: 발화가 어려운 장애인이 소통을 잘 할 수 있도록 보조수단 AAC를 앱으로 만들고, 그들의 하루를 뒤돌아보기 쉽게 정리한다.
+2. 사용된 기술: Apple On-Device AI, MVVM
+3. 출시예정일: iOS26 정식 출시일
 
 ### 2. [Tarot]
 
 
+1. 앱의 목적: 속마음을 내보이기 어려운 사람들을 위한 온바이스 ai 타로앱
+2. 사용된 기술: Apple On-Device AI, MVVM
+3. 출시예정일: iOS26 정식 출시일
 
 
 ### 3. [SR-report](https://app.koriai.com)
