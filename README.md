@@ -7,7 +7,6 @@
 ## ☎📱 Contact
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/koriai)
-
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/khi999/)
 
 ## :pencil2: Scholar & Career
@@ -39,8 +38,8 @@ Kori AI : 2020 - present
 
 ### 1. [iOS AAC]
 
-<img src="./AAC-1.png" title="srreport" height="300px"></img>
-<img src="./AAC-2.png" title="srreport" height="300px"></img>
+<img src="./AAC-1.png" title="srreport" height="240px"></img>
+<img src="./AAC-2.png" title="srreport" height="240px"></img>
 1. 앱의 목적: 발화가 어려운 장애인이 소통을 잘 할 수 있도록 보조수단 AAC를 앱으로 만들고, 그들의 하루를 뒤돌아보기 쉽게 정리한다.
 2. 사용된 기술: Apple On-Device AI, MVVM
 3. 출시예정일: iOS26 정식 출시일
