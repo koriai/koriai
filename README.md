@@ -55,8 +55,8 @@ Kori AI : 2020 - present
 
 ### 2. [타로 AI 앱 TarotMe]
 
-<img src="./tarot-1.png" title="srreport" height="240px"></img>
-<img src="./tarot-2.png" title="srreport" height="240px"></img>
+<img src="./tarot-2.png" title="srreport" height="480px"></img>
+<img src="./tarot-1.png" title="srreport" height="480px"></img>
 
 1. 앱의 목적: 속마음을 내보이기 어려운 사람들을 위한 온바이스 ai 타로앱
 2. 사용된 기술: Apple On-Device AI, MVVM
