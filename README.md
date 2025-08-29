@@ -2,9 +2,9 @@
 
 📧  [bustina9@gmail.com](mailto:bustina9@gmail.com) or [hyunjin@koriai.com](mailto:hyunjin@koriai.com)
 
-:house:  Seoul, Republic of Korea
+:house:  Pohang, Republic of Korea
 
-## ☎📱 Contact
+## 📱 Contact
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/koriai)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/khi999/)
