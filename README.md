@@ -36,7 +36,7 @@ Kori AI : 2020 - present
 ## :books: Projects
 
 
-### 1. [iOS AAC]
+### 1. [의사소통 보조도구 앱 AAC - 이으미]
 
 <img src="./AAC-1.png" title="srreport" height="240px"></img>
 <img src="./AAC-2.png" title="srreport" height="240px"></img>
@@ -53,7 +53,7 @@ Kori AI : 2020 - present
    4) iOS 26.0 beta 대응 개발
     
 
-### 2. [Tarot]
+### 2. [타로 AI 앱 TarotMe]
 
 
 1. 앱의 목적: 속마음을 내보이기 어려운 사람들을 위한 온바이스 ai 타로앱
