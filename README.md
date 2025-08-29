@@ -61,13 +61,13 @@ Kori AI : 2020 - present
 2. 사용된 기술: Apple On-Device AI, MVVM
 3. 출시예정일: iOS26 정식 출시일
 4. 기획
-  1) Apple Intelligence 학습을 위함
-  2) 팀원이 좋아하는 분야, 장르
-5. 개발과정
-  1) MVVM
-  2) OnDevice-인공지능 (Apple Intelligence)
-  3) GPT-연동을 위한 클린 아키텍쳐 도입
-  4) iOS 26.0 beta 대응 개발
+   1) Apple Intelligence 학습을 위함
+   2) 팀원이 좋아하는 분야, 장르
+6. 개발과정
+   1) MVVM
+   2) OnDevice-인공지능 (Apple Intelligence)
+   3) GPT-연동을 위한 클린 아키텍쳐 도입
+   4) iOS 26.0 beta 대응 개발
 
 
 
