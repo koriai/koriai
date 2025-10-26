@@ -50,13 +50,18 @@ Kori AI : 2020 - present
    2) OnDevice-인공지능 (Apple Intelligence)
    3) GPT-연동을 위한 클린 아키텍쳐 도입
    4) iOS 26.0 beta 대응 개발
-
+   
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6752591284)
 
 ### 2. [지켜줄Cam - 개인정보보호카메라](https://apps.apple.com/kr/app/%EC%A7%80%EC%BC%9C%EC%A4%84cam-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6752826136)
+
+<img src="./privacycam-1.png" title="srreport" height="480px"></img>
+<img src="./privacycam-2.png" title="srreport" height="480px"></img>
 
 1. 앱의 목적: 개인정보를 보호하기 위한 원클릭 사진편집앱
 2. 사용된 기술: MVVM, Gemini
 
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6752826136)
 
 
 
