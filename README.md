@@ -64,7 +64,7 @@ Kori AI : 2020 - present
 
 
 
-### 2. [타로 AI 앱 TarotMe - 미출시]
+### 3. [타로 AI 앱 TarotMe - 미출시]
 
 <img src="./images/tarot-2.png" title="srreport" height="480px"></img>
 <img src="./images/tarot-1.png" title="srreport" height="480px"></img>
@@ -84,7 +84,7 @@ Kori AI : 2020 - present
 
 
 
-### 3. [SR-report](https://app.koriai.com)
+### 4. [SR-report](https://app.koriai.com)
 
 <img src="./images/srreport-3.png" title="srreport" height="400px"></img>
 
@@ -108,7 +108,7 @@ Kori AI : 2020 - present
 2. back-end: Python, Django, Docker
 3. cloud: Google Cloud, Firebase (auth, firestore, hosting, functions)
 
-### 4. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
+### 5. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
 
 <img src="./images/ttw-3.png" title="ttw" height="400px"></img>
 
@@ -127,7 +127,7 @@ Kori AI : 2020 - present
 2. back-end: Python
 3. cloud: Google Cloud, Firebase hosting
 
-### 5. [Clips viewer](https://clips-u.web.app)
+### 6. [Clips viewer](https://clips-u.web.app)
 
 <p float="left">
 <img src="./images/clips-1.png" title="clips" width="100px" height="400px"></img>
