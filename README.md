@@ -38,8 +38,8 @@ Kori AI : 2020 - present
 
 ### 1. [의사소통 보조도구 앱 AAC - 이으미](https://apps.apple.com/kr/app/%EC%9D%B4%EC%9C%BC%EB%AF%B8-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%87%EB%8A%94-aac/id6752591284)
 
-<img src="./AAC-1.png" title="srreport" height="240px"></img>
-<img src="./AAC-2.png" title="srreport" height="240px"></img>
+<img src="./images/AAC-1.png" title="srreport" height="240px"></img>
+<img src="./images/AAC-2.png" title="srreport" height="240px"></img>
 1. 앱의 목적: [발화가 어려운 자폐장애인]들이 [의사소통]을 [AAC앱]을 활용하도록 도와서 [의사 소통 및 마음건강을 더 좋게] 도와줄 앱
 2. 사용된 기술: Apple On-Device AI, MVVM
 3. 기획
@@ -49,14 +49,13 @@ Kori AI : 2020 - present
    1) 사용자 커스터마이징을 위한 CRUD
    2) OnDevice-인공지능 (Apple Intelligence)
    3) GPT-연동을 위한 클린 아키텍쳐 도입
-   4) iOS 26.0 beta 대응 개발
    
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6752591284)
 
 ### 2. [지켜줄Cam - 개인정보보호카메라](https://apps.apple.com/kr/app/%EC%A7%80%EC%BC%9C%EC%A4%84cam-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6752826136)
 
-<img src="./privacycam-1.png" title="srreport" height="480px"></img>
-<img src="./privacycam-2.png" title="srreport" height="480px"></img>
+<img src="./images/privacycam-1.png" title="srreport" height="480px"></img>
+<img src="./images/privacycam-2.png" title="srreport" height="480px"></img>
 
 1. 앱의 목적: 개인정보를 보호하기 위한 원클릭 사진편집앱
 2. 사용된 기술: MVVM, Gemini
@@ -67,8 +66,8 @@ Kori AI : 2020 - present
 
 ### 2. [타로 AI 앱 TarotMe - 미출시]
 
-<img src="./tarot-2.png" title="srreport" height="480px"></img>
-<img src="./tarot-1.png" title="srreport" height="480px"></img>
+<img src="./images/tarot-2.png" title="srreport" height="480px"></img>
+<img src="./images/tarot-1.png" title="srreport" height="480px"></img>
 
 1. 앱의 목적: 속마음을 내보이기 어려운 사람들을 위한 온바이스 ai 타로앱
 2. 사용된 기술: Apple On-Device AI, MVVM
@@ -87,7 +86,7 @@ Kori AI : 2020 - present
 
 ### 3. [SR-report](https://app.koriai.com)
 
-<img src="./srreport/srreport-3.png" title="srreport" height="400px"></img>
+<img src="./images/srreport-3.png" title="srreport" height="400px"></img>
 
 <a href='https://play.google.com/store/apps/details?id=com.koriai.report&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="160px"></a>
 
@@ -97,12 +96,12 @@ Kori AI : 2020 - present
 
 ## Screencasts
 
-<img src="./srreport/srreport-1.png" title="srreport" height="200px"></img>
-<img src="./srreport/srreport-2.png" title="srreport" height="200px"></img>
-<img src="./srreport/srreport-4.png" title="srreport" height="200px"></img>
-<img src="./srreport/srreport-5.png" title="srreport" height="200px"></img>
-<img src="./srreport/srreport-6.png" title="srreport" height="200px"></img>
-<img src="./srreport/srreport-7.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-1.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-2.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-4.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-5.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-6.png" title="srreport" height="200px"></img>
+<img src="./images/srreport-7.png" title="srreport" height="200px"></img>
 </details>
 
 1. front-end: Flutter
@@ -111,7 +110,7 @@ Kori AI : 2020 - present
 
 ### 4. [Total war:warhammer3 roster simulator](https://ttw-roster.web.app)
 
-<img src="./ttw/ttw-3.png" title="ttw" height="400px"></img>
+<img src="./images/ttw-3.png" title="ttw" height="400px"></img>
 
 <details>
 <summary> <b>More screencasts</b> </summary>
@@ -119,9 +118,9 @@ Kori AI : 2020 - present
 
 ## Screencasts
 
-<img src="./ttw/ttw-1.png" title="srreport" height="200px"></img>
-<img src="./ttw/ttw-2.png" title="srreport" height="200px"></img>
-<img src="./ttw/ttw-4.png" title="srreport" height="200px"></img>
+<img src="./images/ttw-1.png" title="srreport" height="200px"></img>
+<img src="./images/ttw-2.png" title="srreport" height="200px"></img>
+<img src="./images/ttw-4.png" title="srreport" height="200px"></img>
 </details>
 
 1. front-end: Flutter
@@ -131,8 +130,8 @@ Kori AI : 2020 - present
 ### 5. [Clips viewer](https://clips-u.web.app)
 
 <p float="left">
-<img src="./clips/clips-1.png" title="clips" width="100px" height="400px"></img>
-<img src="./clips/clips-2.png" title="clips" width="350px" height="400px"></img>
+<img src="./images/clips-1.png" title="clips" width="100px" height="400px"></img>
+<img src="./images/clips-2.png" title="clips" width="350px" height="400px"></img>
 </p>
 This project provides the clips of youtubes.
 
@@ -141,4 +140,4 @@ This project provides the clips of youtubes.
 
 # :memo: [Portfolio Page](https://portfolio-khj.web.app)
 
-<img src="./portfolio.png" title="portfolio" height="400px"></img>
+<img src="./images/portfolio.png" title="portfolio" height="400px"></img>
