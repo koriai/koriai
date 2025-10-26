@@ -63,6 +63,8 @@ Kori AI : 2020 - present
 
 1. 앱의 목적: 개인정보를 보호하기 위한 원클릭 사진편집앱
 2. 사용된 기술: MVVM, Gemini
+            Firebase Cloud Run & Python Django를 통한 Gemini 호출 서버 구현
+
 
 
 ### 3. [타로 AI 앱 TarotMe - 미출시]
