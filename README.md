@@ -36,24 +36,31 @@ Kori AI : 2020 - present
 ## :books: Projects
 
 
-### 1. [의사소통 보조도구 앱 AAC - 이으미]
+### 1. [의사소통 보조도구 앱 AAC - 이으미](https://apps.apple.com/kr/app/%EC%9D%B4%EC%9C%BC%EB%AF%B8-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%87%EB%8A%94-aac/id6752591284)
 
 <img src="./AAC-1.png" title="srreport" height="240px"></img>
 <img src="./AAC-2.png" title="srreport" height="240px"></img>
 1. 앱의 목적: [발화가 어려운 자폐장애인]들이 [의사소통]을 [AAC앱]을 활용하도록 도와서 [의사 소통 및 마음건강을 더 좋게] 도와줄 앱
 2. 사용된 기술: Apple On-Device AI, MVVM
-3. 출시예정일: iOS26 정식 출시일
-4. 기획
+3. 기획
    1) 기존 물리적 AAC는 부피가 더 크기 떄문에 이동 시 불편함
    2) 기존 AAC 앱은 발화 내용을 토대로 한 생성형 일기 제작이 없고, 마음상태를 보여주기 위한 기능이 없음 
-5. 개발과정
+4. 개발과정
    1) 사용자 커스터마이징을 위한 CRUD
    2) OnDevice-인공지능 (Apple Intelligence)
    3) GPT-연동을 위한 클린 아키텍쳐 도입
    4) iOS 26.0 beta 대응 개발
-    
 
-### 2. [타로 AI 앱 TarotMe]
+
+### 2. [지켜줄Cam - 개인정보보호카메라](https://apps.apple.com/kr/app/%EC%A7%80%EC%BC%9C%EC%A4%84cam-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6752826136)
+
+1. 앱의 목적: 개인정보를 보호하기 위한 원클릭 사진편집앱
+2. 사용된 기술: MVVM, Gemini
+
+
+
+
+### 2. [타로 AI 앱 TarotMe - 미출시]
 
 <img src="./tarot-2.png" title="srreport" height="480px"></img>
 <img src="./tarot-1.png" title="srreport" height="480px"></img>
