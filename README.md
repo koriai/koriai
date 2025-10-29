@@ -1,6 +1,6 @@
 # 😀 안녕하세요, 김현진입니다
 
-- iOS와 On-Device AI에 관심이 많은 개발자입니다.
+- python, iOS와 AI에 관심이 많은 개발자입니다.
 - 사용자 경험을 개선하는 제품과, 문제를 기술로 풀어내는 일을 좋아합니다.
 
 📧 이메일: [bustina9@gmail.com](mailto:bustina9@gmail.com) / [hyunjin@koriai.com](mailto:hyunjin@koriai.com)  
