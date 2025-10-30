@@ -112,11 +112,14 @@
 </p>
 </details>
 
+<a href="https://play.google.com/store/apps/details?id=com.koriai.report">
+  <img src="https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="120"/>
+</a>
+
+
 - 프론트엔드: Flutter  
 - 백엔드: Python, Django, Docker  
 - 클라우드: Google Cloud, Firebase (Auth, Firestore, Hosting, Functions)  
-- 링크: 
-  - Android: <a href='https://play.google.com/store/apps/details?id=com.koriai.report&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="140"></a>
 
 ---
 
