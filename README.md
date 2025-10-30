@@ -68,6 +68,7 @@
   <img src="https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="120"/>
 </a>
 
+
 - 목적: 원클릭으로 개인정보를 보호하는 사진 편집 앱
 - 사용 기술: iOS, Swift, MVVM, Gemini
 - 백엔드: Firebase Cloud Run + Python Django로 Gemini 호출 서버 구현
