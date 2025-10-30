@@ -35,7 +35,6 @@
 ## 📚 Projects
 
 ### 1) 의사소통 보조도구 앱 AAC – 이으미
-[App Store에서 보기](https://apps.apple.com/kr/app/%EC%9D%B4%EC%9C%BC%EB%AF%B8-%EB%A7%88%EC%9D%8C%EC%9D%84-%EC%9E%87%EB%8A%94-aac/id6752591284)
 
 <p>
   <img src="./images/AAC-1.png" alt="AAC Screenshot 1" height="240">
@@ -57,7 +56,6 @@
 ---
 
 ### 2) 지켜줄Cam – 개인정보 보호 카메라
-[App Store에서 보기](https://apps.apple.com/kr/app/%EC%A7%80%EC%BC%9C%EC%A4%84cam-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EC%B9%B4%EB%A9%94%EB%9D%BC/id6752826136)
 
 <p>
   <img src="./images/privacycam-1.png" alt="PrivacyCam Screenshot 1" height="420">
@@ -65,6 +63,10 @@
 </p>
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6752826136)
+
+<a href="https://play.google.com/store/apps/details?id=com.koriai.jiwoocam">
+  <img src="https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="120"/>
+</a>
 
 - 목적: 원클릭으로 개인정보를 보호하는 사진 편집 앱
 - 사용 기술: iOS, Swift, MVVM, Gemini
