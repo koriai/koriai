@@ -34,7 +34,27 @@
 
 ## 📚 Projects
 
-### 1) 의사소통 보조도구 앱 AAC – 이으미
+### 1) 부메랑 - 부동산 메이트랑, 부동산 계약 도우미 서비스
+
+<p>
+  <img src="./images/boomerang-1.png" alt="AAC Screenshot 1" height="240">
+  <img src="./images/boomerang-2.png" alt="AAC Screenshot 2" height="240">
+</p>
+
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/id6754898424)
+
+- 목적: 부동산 계약서류 분석으로 경험이 적은 유저의 불안감 해소
+- 사용 기술: iOS, Swift, MVVM, AI OCR
+- 주요 기능
+  - 사용자 서류 OCR
+  - 분석 내용을 토대로 사용자에게 필요한 검토 안내
+- 기획 배경
+  - 전월세 계약에 대한 사회적 불안감 상승
+  - 기존 부동산 앱의 단점 보완(계약서 분석 없음)
+
+---
+
+### 2) 의사소통 보조도구 앱 AAC – 이으미
 
 <p>
   <img src="./images/AAC-1.png" alt="AAC Screenshot 1" height="240">
@@ -55,7 +75,7 @@
 
 ---
 
-### 2) 지켜줄Cam – 개인정보 보호 카메라
+### 3) 지켜줄Cam – 개인정보 보호 카메라
 
 <p>
   <img src="./images/privacycam-1.png" alt="PrivacyCam Screenshot 1" height="420">
@@ -76,7 +96,7 @@
 
 ---
 
-### 3) TarotMe – 타로 AI 앱 (미출시)
+### 4) TarotMe – 타로 AI 앱 (미출시)
 <p>
   <img src="./images/tarot-2.png" alt="TarotMe Screenshot 2" height="420">
   <img src="./images/tarot-1.png" alt="TarotMe Screenshot 1" height="420">
@@ -93,7 +113,7 @@
 
 ---
 
-### 4) SR-report
+### 5) SR-report
 [웹 서비스 바로가기](https://app.koriai.com)
 
 <p>
@@ -123,7 +143,7 @@
 
 ---
 
-### 5) Total War: WARHAMMER III Roster Simulator
+### 6) Total War: WARHAMMER III Roster Simulator
 [웹 서비스 바로가기](https://ttw-roster.web.app)
 
 <p>
@@ -145,7 +165,7 @@
 
 ---
 
-### 6) Clips Viewer
+### 7) Clips Viewer
 [웹 서비스 바로가기](https://clips-u.web.app)
 
 <p float="left">
