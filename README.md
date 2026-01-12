@@ -74,6 +74,9 @@
   - 기존 AAC 앱의 감정/마음 상태 표현 및 일기 기능 부재
 
 ---
+<details>
+  <summary>기타 프로젝트</summary>
+
 
 ### 3) 지켜줄Cam – 개인정보 보호 카메라
 
@@ -183,3 +186,5 @@
 <p>
   <img src="./images/portfolio.png" alt="Portfolio Screenshot" height="360">
 </p>
+
+</details>
