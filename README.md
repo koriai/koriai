@@ -1,9 +1,11 @@
 # 안녕하세요, 김현진입니다
 
 AI/LLM, Flutter, iOS, python, docker, gcp 기반 제품을 설계하고 구현하는 풀스택 엔지니어입니다.
+
 사용자 문제를 AI 기술로 해결하는 서비스를 개발하고 있습니다.
 
 📧 이메일: [bustina9@gmail.com](mailto:bustina9@gmail.com) / [hyunjin@koriai.com](mailto:hyunjin@koriai.com)
+
 🏠 위치: 서울, 대한민국
 
 ## Contact
