@@ -50,7 +50,7 @@ AI/LLM, Flutter, iOS, python, docker, gcp 기반 제품을 설계하고 구현�
 - 성균관대학교 석사: 2018–2020
 - Kori AI: 2020–현재
 - BodyFriend: 2024–2025
-- Apple Developer Academy @ POSTECH: 2025–현재
+- Apple Developer Academy @ POSTECH: 2025
 
 ---
 
