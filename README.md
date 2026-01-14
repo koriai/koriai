@@ -21,7 +21,7 @@ AI/LLM, Flutter, iOS, python, docker, gcp 기반 제품을 설계하고 구현�
 ![MCP](https://img.shields.io/badge/MCP-5A0FC8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
 
 - **LLM Integration**: OpenAI GPT, Claude API, Gemini API 연동 및 프롬프트 엔지니어링
-- **MCP (Model Context Protocol)**: Claude Desktop용 MCP 서버 설계 및 구현
+- **MCP (Model Context Protocol)**: MCP 서버 설계 및 구현
 - **On-Device AI**: Apple Intelligence (Foundation Models), Core ML
 - **AI OCR**: 문서 분석 및 정보 추출 파이프라인 구축
 
@@ -213,14 +213,5 @@ AI/LLM, Flutter, iOS, python, docker, gcp 기반 제품을 설계하고 구현�
 - **목적**: 유튜브 클립 모아보기
 - **프론트엔드**: Flutter
 - **클라우드**: Firebase (Hosting, Firestore)
-
----
-
-## Portfolio
-- 포트폴리오 페이지: [https://portfolio-khj.web.app](https://portfolio-khj.web.app)
-
-<p>
-  <img src="./images/portfolio.png" alt="Portfolio Screenshot" height="360">
-</p>
 
 </details>
